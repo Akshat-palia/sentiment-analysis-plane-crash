@@ -31,7 +31,6 @@ This project performs real-time **sentiment analysis** on tweets related to the 
 
 ## 📂 Project Structure
 
-```plaintext
 sentiment_analysis/
 ├── fetch_tweets.py                  # Fetches tweets using Twitter API
 ├── analyze_sentiment.py            # Sentiment analysis using VADER
